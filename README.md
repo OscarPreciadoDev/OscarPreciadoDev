@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Oscar Preciado
 
-### ☕ Java AI Enginner en formación | Estudiante de Ingeniería de Sistemas y computacion
+### ☕ Backend Developer en formación | Estudiante de Ingeniería de Sistemas
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Java+Backend+Developer+in+Progress;Ingeniería+de+Sistemas+-+Uniagustiniana;Especialización+Java+Backend+-+DevSenior;Siempre+aprendiendo+nuevas+tecnologías." />
 
@@ -10,15 +10,15 @@
 
 ---
 
-## 🚀 Sobre mí
+# 🚀 Sobre mí
 
 🎓 Estudiante de **Ingeniería de Sistemas** en la **Universitaria Agustiniana (Uniagustiniana)**.
 
-☕ Actualmente me encuentro fortaleciendo mi perfil como **Desarrollador Backend Java**, participando en el programa de formación de **DevSenior**, donde desarrollo proyectos prácticos aplicando buenas prácticas de programación, Git y GitHub.
+☕ Actualmente curso la **Especialización en Java Backend con DevSenior**, donde desarrollo proyectos prácticos aplicando programación orientada a objetos, estructuras de datos, Git y GitHub.
 
-🐍 Paralelamente continúo ampliando mis conocimientos en **Python**, algoritmos y lógica de programación para fortalecer mis fundamentos como desarrollador.
+🐍 También continúo fortaleciendo mis conocimientos en **Python**, algoritmos y lógica de programación para ampliar mis fundamentos como desarrollador.
 
-🎯 Mi objetivo es construir software de calidad mientras continúo creciendo profesionalmente hacia el desarrollo Backend.
+🎯 Mi objetivo es convertirme en **Backend Java Developer**, desarrollando software de calidad y aprendiendo constantemente nuevas tecnologías.
 
 ---
 
@@ -34,21 +34,21 @@
 
 # 📚 Actualmente aprendiendo
 
-- ☕ Java
+- ☕ Java Backend
 - 🐍 Python
 - 📦 Programación Orientada a Objetos
-- 🌱 Backend Development
+- 🗄️ SQL
 - 🔀 Git & GitHub
 - 🧠 Algoritmos y estructuras de datos
 
 ---
 
-# 🎯 Roadmap
+# 🛣️ Roadmap
 
-- ✅ Java Fundamentals
+- ✅ Fundamentos de Java
 - ✅ Git & GitHub
 - ✅ Programación Orientada a Objetos
-- ✅ Python Fundamentals
+- ✅ Fundamentos de Python
 - 🔄 SQL
 - 🔄 Spring Boot
 - ⏳ APIs REST
@@ -58,43 +58,36 @@
 
 ---
 
-# 📂 Repositorios
+# 📂 Portafolio
 
-Aquí encontrarás proyectos relacionados con:
+En este perfil encontrarás proyectos relacionados con:
 
-📌 Java
-
-📌 Python
-
-📌 Algoritmos
-
-📌 Lógica de programación
-
-📌 Aplicaciones CLI
-
-📌 Proyectos desarrollados durante mi formación en DevSenior
+- ☕ Java
+- 🐍 Python
+- 🧠 Algoritmos y lógica de programación
+- 💻 Aplicaciones CLI
+- 📚 Proyectos desarrollados durante mi formación con DevSenior
 
 ---
 
-# 📈 Estadísticas
+# 📈 Actividad en GitHub
 
 <p align="center">
 
-[<img height="170em"
-src="https://github-readme-stats.vercel.app/api?username=OscarPreciadoDev&show_icons=true&theme=tokyonight&hide_border=true"/>](https://github-readme-stats-sigma-five.vercel.app/api?username=OscarPreciadoDev&show_icons=true&theme=tokyonight)
-
-
-
-<img height="170em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarPreciadoDev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+height="180"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OscarPreciadoDev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
+# 📊 Contribuciones
+
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=OscarPreciadoDev&theme=tokyonight&hide_border=true"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=OscarPreciadoDev&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -108,7 +101,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarPreciad
 <img src="https://img.shields.io/badge/GitHub-OscarPreciadoDev-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<!-- Pendiente linkedIn futuro -->
+<!-- Cuentas laborales aqui!! -->
 
 </p>
 
@@ -116,6 +109,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarPreciad
 
 <div align="center">
 
-### 💡 *"Cada proyecto es una oportunidad para aprender algo nuevo y escribir mejor código que ayer."*
+## 💡 Filosofía
+
+*"Cada proyecto representa una oportunidad para aprender, mejorar y escribir un mejor código que ayer."*
+
+⭐ Gracias por visitar mi perfil.
 
 </div>
