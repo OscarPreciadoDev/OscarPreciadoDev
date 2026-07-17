@@ -1,80 +1,119 @@
-# Hola, soy Oscar 👋
-
-### Java Developer · Backend Engineer · Developer in Training
-
-Apasionado por construir sistemas robustos y escalables. Me especializo en el ecosistema Java, diseño de APIs y arquitecturas limpias que sobreviven el paso del tiempo.
-
----
-
-## 🛠️ Stack principal
-
-**Lenguajes**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Frameworks & Herramientas**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Bases de datos**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-## 📌 Proyectos destacados
-
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [Proyecto 1](#) | Breve descripción de lo que hace | Java · Spring Boot · PostgreSQL |
-| [Proyecto 2](#) | Breve descripción de lo que hace | Java · REST API · Docker |
-| [Proyecto 3](#) | Breve descripción de lo que hace | Java · Microservices · Redis |
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&locale=es)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true)
+# 👋 ¡Hola! Soy Oscar Preciado
+
+### ☕ Java AI Enginner en formación | Estudiante de Ingeniería de Sistemas y computacion
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Java+Backend+Developer+in+Progress;Ingeniería+de+Sistemas+-+Uniagustiniana;Especialización+Java+Backend+-+DevSenior;Siempre+aprendiendo+nuevas+tecnologías." />
 
 </div>
 
 ---
 
-## 🧠 En lo que creo
+## 🚀 Sobre mí
 
-```java
-public class MiFilosofia {
+🎓 Estudiante de **Ingeniería de Sistemas** en la **Universitaria Agustiniana (Uniagustiniana)**.
 
-    public String codigoLimpio() {
-        return "El código se escribe para personas, no para máquinas.";
-    }
+☕ Actualmente me encuentro fortaleciendo mi perfil como **Desarrollador Backend Java**, participando en el programa de formación de **DevSenior**, donde desarrollo proyectos prácticos aplicando buenas prácticas de programación, Git y GitHub.
 
-    public String principioFavorito() {
-        return "SOLID + Clean Architecture = sistemas que escalan.";
-    }
+🐍 Paralelamente continúo ampliando mis conocimientos en **Python**, algoritmos y lógica de programación para fortalecer mis fundamentos como desarrollador.
 
-    public boolean meGustaElTesting() {
-        return true; // siempre
-    }
-}
-```
+🎯 Mi objetivo es construir software de calidad mientras continúo creciendo profesionalmente hacia el desarrollo Backend.
 
 ---
 
-## 📫 Conectemos
+# 💻 Tecnologías
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,git,github,idea,vscode,mysql&perline=7"/>
+
+</p>
+
+---
+
+# 📚 Actualmente aprendiendo
+
+- ☕ Java
+- 🐍 Python
+- 📦 Programación Orientada a Objetos
+- 🌱 Backend Development
+- 🔀 Git & GitHub
+- 🧠 Algoritmos y estructuras de datos
+
+---
+
+# 🎯 Roadmap
+
+- ✅ Java Fundamentals
+- ✅ Git & GitHub
+- ✅ Programación Orientada a Objetos
+- ✅ Python Fundamentals
+- 🔄 SQL
+- 🔄 Spring Boot
+- ⏳ APIs REST
+- ⏳ JPA / Hibernate
+- ⏳ Docker
+- ⏳ Testing
+
+---
+
+# 📂 Repositorios
+
+Aquí encontrarás proyectos relacionados con:
+
+📌 Java
+
+📌 Python
+
+📌 Algoritmos
+
+📌 Lógica de programación
+
+📌 Aplicaciones CLI
+
+📌 Proyectos desarrollados durante mi formación en DevSenior
+
+---
+
+# 📈 Estadísticas
+
+<p align="center">
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=OscarPreciadoDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarPreciadoDev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=OscarPreciadoDev&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Contacto
+
+<p align="center">
+
+<a href="https://github.com/OscarPreciadoDev">
+<img src="https://img.shields.io/badge/GitHub-OscarPreciadoDev-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- Pendiente linkedIn futuro -->
+
+</p>
 
 ---
 
 <div align="center">
-  <i>"Primero haz que funcione, luego haz que sea correcto, luego haz que sea rápido."</i><br>
-  — Kent Beck
+
+### 💡 *"Cada proyecto es una oportunidad para aprender algo nuevo y escribir mejor código que ayer."*
+
 </div>
