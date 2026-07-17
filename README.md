@@ -4,7 +4,7 @@
 
 ### ☕ Backend Developer en formación | Estudiante de Ingeniería de Sistemas
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Java+Backend+Developer+in+Progress;Ingeniería+de+Sistemas+-+Uniagustiniana;Especialización+Java+Backend+-+DevSenior;Siempre+aprendiendo+nuevas+tecnologías." />
+<!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Java+Backend+Developer+in+Progress;Ingeniería+de+Sistemas+-+Uniagustiniana;Especialización+Java+Backend+-+DevSenior;Siempre+aprendiendo+nuevas+tecnologías." /-->!>
 
 </div>
 
@@ -70,13 +70,15 @@ En este perfil encontrarás proyectos relacionados con:
 
 ---
 
-# 📈 Actividad en GitHub
+<!-- # 📈 Actividad en GitHub
 
 <p align="center">
 
 <img
 height="180"
 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OscarPreciadoDev&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+-->
 
 </p>
 
