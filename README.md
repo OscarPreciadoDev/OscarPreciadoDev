@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Oscar Preciado
 
-### ☕ Backend Developer en formación | Estudiante de Ingeniería de Sistemas
+### ☕ Java AI Enginner en formación | Estudiante de Ingeniería de Sistemas y computacion
 
 <!--<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=700&lines=Java+Backend+Developer+in+Progress;Ingeniería+de+Sistemas+-+Uniagustiniana;Especialización+Java+Backend+-+DevSenior;Siempre+aprendiendo+nuevas+tecnologías." /-->
 
@@ -12,13 +12,13 @@
 
 # 🚀 Sobre mí
 
-🎓 Estudiante de **Ingeniería de Sistemas** en la **Universitaria Agustiniana (Uniagustiniana)**.
+🎓 Estudiante de **Ingeniería de Sistemas** en la **Universitaria Agustiniana CO (Uniagustiniana)**.
 
 ☕ Actualmente curso la **Especialización en Java Backend con DevSenior**, donde desarrollo proyectos prácticos aplicando programación orientada a objetos, estructuras de datos, Git y GitHub.
 
 🐍 También continúo fortaleciendo mis conocimientos en **Python**, algoritmos y lógica de programación para ampliar mis fundamentos como desarrollador.
 
-🎯 Mi objetivo es convertirme en **Backend Java Developer**, desarrollando software de calidad y aprendiendo constantemente nuevas tecnologías.
+🎯 Mi objetivo es convertirme en **Java AI Enginner**, desarrollando software de calidad y aprendiendo constantemente nuevas tecnologías.
 
 ---
 
